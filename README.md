@@ -63,4 +63,6 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 
 - **Nome:** Felipe Lamim
 - **E-mail:** fclamim@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/felipe-lamim-bb054291/
+- **LinkedIn:** www.linkedin.com/in/felipe-lamim
+
+
